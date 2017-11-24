@@ -2925,7 +2925,7 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "turn",
+            "animType": "basic",
             "theme": "boundary",
             "slides": [
               {
@@ -2935,7 +2935,7 @@
                 "src": "@PROJECT_PATH@/assets/images/before-800x600.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/before-64x48.png",
                 "title": "Before",
-                "text": "Before",
+                "text": "",
                 "active": true
               },
               {
@@ -2945,7 +2945,7 @@
                 "src": "@PROJECT_PATH@/assets/images/after-800x583.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/after-65x48.png",
                 "title": "After",
-                "text": "After",
+                "text": "",
                 "active": false
               },
               {
