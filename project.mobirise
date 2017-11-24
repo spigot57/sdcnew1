@@ -2956,6 +2956,16 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/hayley-ball-b4-no-date-80x48.png",
                 "title": "Before",
                 "text": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hayley-ball-after-no-date-640x353.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/hayley%20ball%20after%20no%20date-1999x1103.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/hayley-ball-after-no-date-85x46.png",
+                "title": "After",
+                "text": "",
                 "active": true
               }
             ],
