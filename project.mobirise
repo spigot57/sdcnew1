@@ -2936,7 +2936,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/before-64x48.png",
                 "title": "Before",
                 "text": "",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/after-640x466.jpg",
@@ -2949,14 +2949,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-640x360.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hayley-ball-b4-no-date-640x382.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
+                "src": "@PROJECT_PATH@/assets/images/hayley%20ball%20b4%20no%20date-2000x1196.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/hayley-ball-b4-no-date-80x48.png",
+                "title": "Befor",
+                "text": "",
+                "active": true
               }
             ],
             "fullScreen": true,
