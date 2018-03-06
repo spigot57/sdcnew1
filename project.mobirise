@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Superior Dental Ceramics",
-    "currentPage": "Products.html",
+    "currentPage": "Gallery.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 108,
     "versionPublish": "4.5.4",
@@ -3367,28 +3367,6 @@
           "_anchor": "content1-2y",
           "_isUserblock": true,
           "_cid": "qLwRPn8YS8",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "text-align": "center"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>© Copyright  Superior Dental Ceramics</div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-2z",
-          "_isUserblock": true,
-          "_cid": "qLwRSNSsv2",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
