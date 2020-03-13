@@ -2241,7 +2241,7 @@ body {
   color: #767676;
 }
 .cid-qLpYyj4Q8R {
-  padding-top: 135px;
+  padding-top: 0px;
   padding-bottom: 135px;
   background-color: #ffffff;
 }
@@ -3777,8 +3777,87 @@ body {
     content: "After";
   }
 }
+#custom-html-4j {
+  /* Zebra striping */
+}
+#custom-html-4j h3 {
+  font-size: 24px;
+}
+#custom-html-4j img {
+  max-width: 400px;
+  max-height: 200px;
+  object-fit: cover;
+}
+#custom-html-4j table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+#custom-html-4j th {
+  color: #767676;
+  text-align: center;
+  padding: 6px;
+}
+#custom-html-4j td {
+  padding: 6px;
+  text-align: left;
+}
+@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px) {
+  #custom-html-4j {
+    /* Force table to not be like tables anymore */
+    /* Hide table headers (but not display: none;, for accessibility) */
+    /*
+	Label the data
+	*/
+  }
+  #custom-html-4j table,
+  #custom-html-4j thead,
+  #custom-html-4j tbody,
+  #custom-html-4j th,
+  #custom-html-4j td,
+  #custom-html-4j tr {
+    display: block;
+  }
+  #custom-html-4j thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  #custom-html-4j tr {
+    border: 1px solid #ccc;
+  }
+  #custom-html-4j td {
+    /* Behave  like a "row" */
+    color: #767676;
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 20%;
+  }
+  #custom-html-4j img {
+    max-width: 240px;
+    max-height: 120px;
+    object-fit: cover;
+  }
+  #custom-html-4j td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 20%;
+    padding-right: 10px;
+    white-space: nowrap;
+  }
+  #custom-html-4j td:nth-of-type(1):before {
+    content: "Before";
+  }
+  #custom-html-4j td:nth-of-type(2):before {
+    content: "After";
+  }
+}
 .cid-qMJzvApMWv {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
