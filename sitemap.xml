@@ -1,23 +1,52 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/index.html</loc>
-	</url>
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/Services.html</loc>
-	</url>
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/ContactUs.html</loc>
-	</url>
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/Gallery.html</loc>
-	</url>
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/Implants.html</loc>
-	</url>
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/Shadetaking.html</loc>
-	</url>
-	<url>
-		<loc>https://spigot57.github.xn--io/sdcnew1-/Testimonials.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.superiordentalceramics.com/</loc>
+  <lastmod>2020-05-27T20:32:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/index.html</loc>
+  <lastmod>2020-05-27T20:32:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/Implants.html</loc>
+  <lastmod>2020-05-27T20:32:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/ContactUs.html</loc>
+  <lastmod>2020-05-28T07:57:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/Gallery.html</loc>
+  <lastmod>2020-05-27T20:32:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/Shadetaking.html</loc>
+  <lastmod>2020-05-27T20:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/Services.html</loc>
+  <lastmod>2020-05-27T20:32:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.superiordentalceramics.com/Testimonials.html</loc>
+  <lastmod>2020-05-27T20:32:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
